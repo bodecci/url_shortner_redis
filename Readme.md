@@ -1,0 +1,1 @@
+To create a unique identifier for the URL, we will use only alphanumeric characters. So we can say that we have 62 possible characters (Base62).
